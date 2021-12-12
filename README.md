@@ -1,2 +1,2 @@
 # Ocean Platform
-Welcome To The Repo Of Ocean PLatform
+Welcome To The Repo Of Ocean Platformer
